@@ -4,7 +4,6 @@ import zipfile
 import json
 import time
 import telebot
-import requests
 import yadisk
 import rawpy
 from PIL import Image
