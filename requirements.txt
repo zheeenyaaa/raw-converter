@@ -1,4 +1,4 @@
-﻿pyTelegramBot
+﻿pyTelegramBotAPI
 yadisk
 rawpy
 PIL
