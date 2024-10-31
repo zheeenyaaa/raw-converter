@@ -1,0 +1,4 @@
+﻿pyTelegramBotAPI
+yadisk
+rawpy
+PIL
